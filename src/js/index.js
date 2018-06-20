@@ -4,7 +4,7 @@ import OrbitControls from "orbit-controls-es6";
 import * as Detector from "../js/vendor/Detector";
 import * as DAT from "../js/vendor/dat.gui.min";
 
-import * as checkerboard from "../textures/checkerboard.jpg";
+import * as checkerboard from "../textures/checkerboard.png";
 // const checkerboard = require("../textures/checkerboard.jpg");
 const star = require("../textures/star.png");
 const vertexShader = require("../glsl/vertexShader.glsl");
